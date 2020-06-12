@@ -10,7 +10,7 @@
 - change index.html
 ```python 
 <base href="./" />
-´´´
+```
 - create new file .gitattributes and add this line inside * binary
 - create new file .nojekyll just empty file (otherwise, folders whose name starts with underscore are not published)
 - create new file 404.html
